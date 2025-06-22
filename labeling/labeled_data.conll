@@ -1,0 +1,142 @@
+አዲስ B-Product
+እቃ I-Product
+በ O
+1500 B-PRICE
+ብር I-PRICE
+
+የልጆች B-Product
+ልብስ I-Product
+500 B-PRICE
+ብር I-PRICE
+
+የቤት B-Product
+እቃዎች I-Product
+በ O
+1500 B-PRICE
+ብር I-PRICE
+
+አዲስ B-LOC
+አበባ I-LOC
+ያሉ O
+ምርቶች O
+
+የልብስ B-Product
+ማደያ I-Product
+200 B-PRICE
+ብር I-PRICE
+
+አዲስ B-Product
+እቃ I-Product
+በ O
+1200 B-PRICE
+ብር I-PRICE
+
+የቤት B-Product
+ልብስ I-Product
+300 B-PRICE
+ብር I-PRICE
+
+አዲስ B-LOC
+አበባ I-LOC
+ያሉ O
+ምርቶች O
+
+የልጆች B-Product
+ጫማ I-Product
+400 B-PRICE
+ብር I-PRICE
+
+አዲስ B-Product
+ምግብ I-Product
+250 B-PRICE
+ብር I-PRICE
+
+የቤት B-Product
+መጠጥ I-Product
+600 B-PRICE
+ብር I-PRICE
+
+አዲስ B-LOC
+መንበያ I-LOC
+ያሉ O
+ምርቶች O
+
+የልብስ B-Product
+ጫማ I-Product
+350 B-PRICE
+ብር I-PRICE
+
+አዲስ B-Product
+እቃዎች I-Product
+450 B-PRICE
+ብር I-PRICE
+
+የቤት B-Product
+ልብስ I-Product
+700 B-PRICE
+ብር I-PRICE
+
+አዲስ B-LOC
+አበባ I-LOC
+ያሉ O
+ምርቶች O
+
+የልጆች B-Product
+ልብስ I-Product
+550 B-PRICE
+ብር I-PRICE
+
+አዲስ B-Product
+መጠጥ I-Product
+300 B-PRICE
+ብር I-PRICE
+
+የቤት B-Product
+ጫማ I-Product
+400 B-PRICE
+ብር I-PRICE
+
+አዲስ B-LOC
+መንበያ I-LOC
+ያሉ O
+ምርቶች O
+
+የልብስ B-Product
+ምግብ I-Product
+200 B-PRICE
+ብር I-PRICE
+
+አዲስ B-Product
+እቃ I-Product
+500 B-PRICE
+ብር I-PRICE
+
+የቤት B-Product
+ልብስ I-Product
+600 B-PRICE
+ብር I-PRICE
+
+አዲስ B-LOC
+አበባ I-LOC
+ያሉ O
+ምርቶች O
+
+የልጆች B-Product
+ጫማ I-Product
+350 B-PRICE
+ብር I-PRICE
+
+አዲስ B-Product
+መጠጥ I-Product
+450 B-PRICE
+ብር I-PRICE
+
+የቤት B-Product
+ምግብ I-Product
+300 B-PRICE
+ብር I-PRICE
+
+አዲስ B-LOC
+መንበያ I-LOC
+ያሉ O
+ምርቶች O
